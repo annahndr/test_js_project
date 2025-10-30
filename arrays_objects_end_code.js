@@ -1,3 +1,12 @@
+const url  = `https://apiopenweather/key=${apiKey}`
+
+fetch(url)
+
+
+
+
+
+
 // ARRAYS
 item1 = "milk";
 item2 = "eggs";
